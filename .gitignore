@@ -1,0 +1,12 @@
+# Secrets de signature — ne jamais committer
+keystore.p12
+config.yml
+
+# Fichiers temporaires
+tmp/
+*.log
+.DS_Store
+
+tmp/
+repo/status/
+repo/diff/

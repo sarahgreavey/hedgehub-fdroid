@@ -1,0 +1,17 @@
+Categories:
+  - Science & Education
+License: MIT
+AuthorName: christelle feenan
+AuthorEmail: christelle.feenan.dev@gmail.com
+SourceCode: ""
+WebSite: ""
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: "1.0.0"
+CurrentVersionCode: 3
+
+Description: |-
+  Cette application pour les hérissons vise à sensibiliser et à informer
+  les citoyens face à cette espèce protégée et classée selon l'Union
+  Internationale pour la Conservation de la Nature dans la catégorie des
+  animaux quasi menacés.
